@@ -147,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "210a58d597e9ccc0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc1247daa1ac7828",
+  "active": "5f22a5ac92b04011",
   "lastOpenFiles": [
     "Глава 1.md"
   ]
