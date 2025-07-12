@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Глава 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Глава 1"
             }
           },
           {
@@ -159,11 +160,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f22a5ac92b04011",
+  "active": "fc1247daa1ac7828",
   "lastOpenFiles": [
     "Глава 1.md"
   ]
