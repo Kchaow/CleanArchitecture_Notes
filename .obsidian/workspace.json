@@ -11,10 +11,14 @@
             "id": "fc1247daa1ac7828",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Глава 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Глава 1"
             }
           }
         ]
@@ -163,5 +167,7 @@
     }
   },
   "active": "fc1247daa1ac7828",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Глава 1.md"
+  ]
 }
