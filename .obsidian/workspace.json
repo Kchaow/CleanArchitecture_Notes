@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83bc0ba7fd7d023b",
+        "id": "4f7a60b00776e7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "e70db1a83888215e",
+            "id": "6bbecdea894fe460",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Часть 3/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -174,9 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e70db1a83888215e",
+  "active": "6bbecdea894fe460",
   "lastOpenFiles": [
     "Часть 2/Глава 6 Функциональное программирование.md",
+    "Часть 3/Untitled.md",
+    "Часть 3",
+    "Часть 2/Untitled.md",
     "Часть 2/Глава 5 Объектно-ориентированное программирование.md",
     "Ресурсы/Pasted image 20250712184557.png",
     "Ресурсы",
