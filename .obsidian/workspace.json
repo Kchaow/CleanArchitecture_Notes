@@ -11,12 +11,14 @@
             "id": "6bbecdea894fe460",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ресурсы/Pasted image 20250721184706.png"
+                "file": "Часть 3/Глава 11 Принцип инверсии зависимости.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250721184706"
+              "icon": "lucide-file",
+              "title": "Глава 11 Принцип инверсии зависимости"
             }
           }
         ]
@@ -176,16 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f22a5ac92b04011",
+  "active": "6bbecdea894fe460",
   "lastOpenFiles": [
     "Часть 3/Глава 10 Принцип разделения интерфейсов.md",
+    "Часть 3/Глава 11 Принцип инверсии зависимости.md",
+    "Часть 3/Глава 8 Принцип открытости и закрытости.md",
+    "Часть 3/Глава 9 Принцип подстановки Барбары Лисков.md",
     "Ресурсы/Pasted image 20250721184706.png",
     "Ресурсы/Pasted image 20250721184357.png",
     "Ресурсы/Pasted image 20250721184133.png",
-    "Часть 3/Глава 9 Принцип подстановки Барбары Лисков.md",
     "Ресурсы/Pasted image 20250721182045.png",
     "Ресурсы/Pasted image 20250721175757.png",
-    "Часть 3/Глава 8 Принцип открытости и закрытости.md",
     "Ресурсы/Pasted image 20250721175606.png",
     "Ресурсы/Pasted image 20250721175301.png",
     "Ресурсы/Pasted image 20250721172757.png",
